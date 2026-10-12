@@ -1,0 +1,5 @@
+is_package: true
+container:
+  type: ColumnPanel
+  properties: {col_widths: '{}'}
+components: []
